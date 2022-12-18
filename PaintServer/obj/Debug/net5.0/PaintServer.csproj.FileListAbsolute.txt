@@ -1,0 +1,180 @@
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\PaintServer.exe
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\PaintServer.deps.json
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.json
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.dev.json
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\PaintServer.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\PaintServer.pdb
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kdy\source\repos\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.csproj.AssemblyReference.cache
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfoInputs.cache
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfo.cs
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CoreCompileInputs.cache
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CopyComplete
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.dll
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.pdb
+C:\Users\kdy\source\repos\PaintServer\obj\Debug\net5.0\PaintServer.genruntimeconfig.cache
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\PaintServer.exe
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\PaintServer.deps.json
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.json
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.dev.json
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\PaintServer.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\PaintServer.pdb
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.csproj.AssemblyReference.cache
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfoInputs.cache
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfo.cs
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CoreCompileInputs.cache
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CopyComplete
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.pdb
+C:\Users\kodae\OneDrive\바탕 화면\새 폴더\PaintServer\obj\Debug\net5.0\PaintServer.genruntimeconfig.cache
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\PaintServer.exe
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\PaintServer.deps.json
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.json
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.dev.json
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\PaintServer.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\PaintServer.pdb
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.csproj.AssemblyReference.cache
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfoInputs.cache
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfo.cs
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CoreCompileInputs.cache
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CopyComplete
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.pdb
+C:\Users\kdy\Downloads\새 폴더 (2)\PaintServer\obj\Debug\net5.0\PaintServer.genruntimeconfig.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\PaintServer.exe
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\PaintServer.deps.json
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.json
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.dev.json
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\PaintServer.pdb
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.csproj.AssemblyReference.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfoInputs.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfo.cs
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CoreCompileInputs.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CopyComplete
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.pdb
+C:\Users\kjdy1\OneDrive\바탕 화면\2\PaintServer\obj\Debug\net5.0\PaintServer.genruntimeconfig.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\PaintServer.exe
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\PaintServer.deps.json
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.json
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\PaintServer.runtimeconfig.dev.json
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\PaintServer.pdb
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.csproj.AssemblyReference.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfoInputs.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.AssemblyInfo.cs
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CoreCompileInputs.cache
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.csproj.CopyComplete
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\ref\PaintServer.dll
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.pdb
+C:\Users\kjdy1\OneDrive\바탕 화면\가장나중\PaintServer\obj\Debug\net5.0\PaintServer.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+create table userinfo
+(
+nickname varchar(100) primary key
+);
+
+create table roominfo
+(
+roomname varchar(100),
+roompw varchar(100),
+clientcount varchar(100),
+clientid varchar(100),
+roomnum varchar(100) primary key
+);
+
+create table RoomUserInfo
+(
+roomnum varchar(100),
+clientid varchar(100),
+foreign key (roomnum) references roominfo(roomnum) on update cascade  on delete cascade 
+);

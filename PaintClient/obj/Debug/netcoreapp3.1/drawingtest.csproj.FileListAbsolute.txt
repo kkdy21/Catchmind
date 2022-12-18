@@ -1,0 +1,15 @@
+C:\Users\kdy\Desktop\drawingtest\bin\Debug\netcoreapp3.1\drawingtest.exe
+C:\Users\kdy\Desktop\drawingtest\bin\Debug\netcoreapp3.1\drawingtest.deps.json
+C:\Users\kdy\Desktop\drawingtest\bin\Debug\netcoreapp3.1\drawingtest.runtimeconfig.json
+C:\Users\kdy\Desktop\drawingtest\bin\Debug\netcoreapp3.1\drawingtest.runtimeconfig.dev.json
+C:\Users\kdy\Desktop\drawingtest\bin\Debug\netcoreapp3.1\drawingtest.dll
+C:\Users\kdy\Desktop\drawingtest\bin\Debug\netcoreapp3.1\drawingtest.pdb
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.csproj.AssemblyReference.cache
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.Paint_practice.resources
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.csproj.GenerateResource.cache
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.AssemblyInfoInputs.cache
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.AssemblyInfo.cs
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.csproj.CoreCompileInputs.cache
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.dll
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.pdb
+C:\Users\kdy\Desktop\drawingtest\obj\Debug\netcoreapp3.1\drawingtest.genruntimeconfig.cache
