@@ -5,9 +5,12 @@
 # 개발인원
 고대연 ( 개인프로젝트 )
 # 개발환경
-- Windows 10 / Visual Studio 2019 / C# Winform / MySQL 15.1
+### server
+- Windows 10 / Visual Studio 2019 / C# console App / MySQL 15.1
+### client
+- Windows 10 / Visual Studio 2019 / C# Winform
 # 프로그램 소개
-프로그램에 접속한 사람들이 방을 만들고, 플레이어가 그림을 그리면 다른 플레이어들이 정답을 맞추는 게임
+유저가 방을 만들어서 해당 방사람들 끼리 캐치마인드 게임을 진행하는 프로그램 (플레이어가 그림을 그리면 다른 플레이어들이 정답을 맞추는 게임)
 # 주요기능
 - 로그인 , 로비에서 채팅, 방생성, 방선택후 입장 기능
 - 펜, 지우개, 도형 그리기기능
